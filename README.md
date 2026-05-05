@@ -31,18 +31,3 @@ Both apps are developed by **Dr. Timothy Aryal** and **Samuel Thapa Magar**.
 
 For account deletion requests, contact us at the email above with the subject **"Account Deletion Request"** and your registered email address.
 
-## Files
-
-| File | Description |
-|---|---|
-| `index.html` | Main support page (single-page site) |
-| `icon.png` | App icon used in the page header |
-| `app-ads.txt` | AdMob publisher verification file |
-
-## AdMob
-
-`app-ads.txt` is included at the root for AdMob publisher verification:
-
-```
-google.com, pub-4377185849523727, DIRECT, f08c47fec0942fa0
-```
