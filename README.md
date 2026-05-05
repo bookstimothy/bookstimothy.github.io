@@ -4,7 +4,7 @@ This repository hosts the official support and help center page for the **Books 
 
 ## Live Site
 
-[https://bookstimothy.github.io/books_timothy_support/](https://bookstimothy.github.io/books_timothy_support/)
+[https://bookstimothy.github.io/](https://bookstimothy.github.io/)
 
 ## About the Apps
 
