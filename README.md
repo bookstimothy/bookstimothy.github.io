@@ -1,12 +1,19 @@
-# Books Timothy / PJC Songs — Support Page
+# Books Timothy — Support Page
 
-This repository hosts the official support and help center page for the **Books Timothy** and **PJC Songs** mobile apps, published via GitHub Pages.
+This repository hosts the official support and help center page for the **Books Timothy** mobile app, published via GitHub Pages.
 
 ## Live Site
 
 [https://bookstimothy.github.io/](https://bookstimothy.github.io/)
 
-## About the Apps
+## Download the App
+
+| Platform | Link |
+|---|---|
+| **Google Play** | [Download on Google Play](https://play.google.com/store/apps/details?id=np.com.alokmishra.alc_book) |
+| **App Store** | [Download on the App Store](https://apps.apple.com/np/app/books-timothy/id1605924276) |
+
+## About the App
 
 **Books Timothy** is a digital library app offering spiritual and Christian resources including:
 
@@ -16,9 +23,7 @@ This repository hosts the official support and help center page for the **Books 
 - E-library with downloadable materials
 - Counseling clinic information
 
-**PJC Songs** shares the same developer and support contact.
-
-Both apps are developed by **Dr. Timothy Aryal** and **Samuel Thapa Magar**.
+Developed by **Dr. Timothy Aryal** and **Samuel Thapa Magar**.
 
 ## Support Contact
 
@@ -30,4 +35,3 @@ Both apps are developed by **Dr. Timothy Aryal** and **Samuel Thapa Magar**.
 | **WhatsApp** | +977 9860889656 |
 
 For account deletion requests, contact us at the email above with the subject **"Account Deletion Request"** and your registered email address.
-
